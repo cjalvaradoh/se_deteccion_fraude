@@ -1,0 +1,57 @@
+﻿id_caso,categoria,usuario,tipo_real,descripcion,resultado_esperado,reglas_esperadas,reglas_disparadas,resultado_obtenido,severidad,certeza,prueba
+CP-01,Normal,ana,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-02,Normal,ana,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-03,Normal,ana,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-04,Normal,ana,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-05,Normal,ana,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-06,Normal,ana,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-07,Normal,luis,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-08,Normal,luis,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-09,Normal,luis,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-10,Normal,luis,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-11,Normal,luis,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-12,Normal,luis,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-13,Normal,carla,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-14,Normal,carla,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-15,Normal,carla,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-16,Normal,carla,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-17,Normal,carla,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-18,Normal,carla,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-19,Normal,pedro,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-20,Normal,pedro,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-21,Normal,pedro,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-22,Normal,pedro,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-23,Normal,pedro,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-24,Normal,pedro,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-25,Normal,marta_admin,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-26,Normal,marta_admin,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-27,Normal,marta_admin,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-28,Normal,marta_admin,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-29,Normal,marta_admin,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-30,Normal,marta_admin,normal,Sesión normal de trabajo,SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-31,Ataque,ana,fuerza_bruta,Ataque simulado: fuerza_bruta,ALERTA,R1,"R1,R2",ALERTA,alta,0.80,OK
+CP-32,Ataque,luis,fuerza_bruta,Ataque simulado: fuerza_bruta,ALERTA,R1,"R1,R2",ALERTA,alta,0.80,OK
+CP-33,Ataque,carla,fuerza_bruta,Ataque simulado: fuerza_bruta,ALERTA,R1,"R1,R2",ALERTA,alta,0.80,OK
+CP-34,Ataque,pedro,fuerza_bruta,Ataque simulado: fuerza_bruta,ALERTA,R1,"R1,R2",ALERTA,alta,0.80,OK
+CP-35,Ataque,ana,suplantacion,Ataque simulado: suplantacion,ALERTA,R3,R3,ALERTA,alta,0.85,OK
+CP-36,Ataque,luis,suplantacion,Ataque simulado: suplantacion,ALERTA,R3,R3,ALERTA,alta,0.85,OK
+CP-37,Ataque,carla,suplantacion,Ataque simulado: suplantacion,ALERTA,R3,R3,ALERTA,alta,0.85,OK
+CP-38,Ataque,pedro,suplantacion,Ataque simulado: suplantacion,ALERTA,R3,R3,ALERTA,alta,0.85,OK
+CP-39,Ataque,ana,acceso_sensible,Ataque simulado: acceso_sensible,ALERTA,R4,R4,ALERTA,media,0.75,OK
+CP-40,Ataque,luis,acceso_sensible,Ataque simulado: acceso_sensible,ALERTA,R4,R4,ALERTA,media,0.75,OK
+CP-41,Ataque,carla,acceso_sensible,Ataque simulado: acceso_sensible,ALERTA,R4,R4,ALERTA,media,0.75,OK
+CP-42,Ataque,pedro,acceso_sensible,Ataque simulado: acceso_sensible,ALERTA,R4,R4,ALERTA,media,0.75,OK
+CP-43,Ataque,ana,escalada_privilegios,Ataque simulado: escalada_privilegios,ALERTA,R5,R5,ALERTA,alta,0.85,OK
+CP-44,Ataque,luis,escalada_privilegios,Ataque simulado: escalada_privilegios,ALERTA,R5,R5,ALERTA,alta,0.85,OK
+CP-45,Ataque,carla,escalada_privilegios,Ataque simulado: escalada_privilegios,ALERTA,R5,R5,ALERTA,alta,0.85,OK
+CP-46,Ataque,pedro,escalada_privilegios,Ataque simulado: escalada_privilegios,ALERTA,R5,R5,ALERTA,alta,0.85,OK
+CP-47,Ataque,ana,exfiltracion,Ataque simulado: exfiltracion,ALERTA,R6,R6,ALERTA,alta,0.80,OK
+CP-48,Ataque,luis,exfiltracion,Ataque simulado: exfiltracion,ALERTA,R6,R6,ALERTA,alta,0.80,OK
+CP-49,Ataque,carla,exfiltracion,Ataque simulado: exfiltracion,ALERTA,R6,R6,ALERTA,alta,0.80,OK
+CP-50,Ataque,pedro,exfiltracion,Ataque simulado: exfiltracion,ALERTA,R6,R6,ALERTA,alta,0.80,OK
+CP-51,Límite,luis,fuerza_bruta,Fuerza bruta lenta: solo 4 fallos (bajo el umbral),ALERTA,R1,-,SIN ALERTA,ninguna,0.00,ERROR (falso negativo)
+CP-52,Límite,pedro,fuerza_bruta,Fuerza bruta con exactamente 5 fallos (en el umbral),ALERTA,R1,"R1,R2",ALERTA,alta,0.80,OK
+CP-53,Límite,marta_admin,normal,Admin usa privilegios elevados (sudo) y lee /core/cuentas_clientes (legítimo),SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-54,Límite,ana,normal,19 lecturas (justo bajo el umbral),SIN ALERTA,-,-,SIN ALERTA,ninguna,0.00,OK
+CP-55,Límite,ana,normal,20 lecturas legítimas (respaldo de ana),SIN ALERTA,-,R6,ALERTA,alta,0.80,ERROR (falso positivo)
+CP-56,Límite,carla,normal,Carla viaja y trabaja a las 21:00 desde otra red (legítimo),SIN ALERTA,-,R3,ALERTA,alta,0.85,ERROR (falso positivo)
